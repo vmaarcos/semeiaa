@@ -10,7 +10,7 @@ export default function Home() {
     { name: 'Marea, 19', alt: 'marea', src: '/marea.jpeg' },
     { name: 'Marcos, 19', alt: 'marcos', src: '/marcos.png' },
     { name: 'Laryssa, 17', alt: 'larissa', src: '/Laryssa.jpeg' },
-    { name: 'Ju, 19', alt: 'ju', src: '/ju.jpg' }
+    { name: 'Juliane, 17', alt: 'ju', src: '/ju.jpg' }
   ]
 
   const imagemAjuda = '/ajuda.png'
